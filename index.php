@@ -40,6 +40,9 @@
                 <option value="">Select</option>
                 <option value="IT">IT</option>
                 <option value="CS">Computer Science</option>
+                <option value="pharmacy<">pharmacy</option>
+                <option value="medicine">medicine/option>
+                <option value="midwifery">midwifery</option>
             </select>
         </div>
         <button type="submit">Submit</button>
